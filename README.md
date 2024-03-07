@@ -4,9 +4,9 @@
 This repository outlines the implementation of a robust cybersecurity framework at KJ Somaiya College, aimed at proactively safeguarding data, ensuring system integrity, and cultivating a cyber-resilient environment. The framework encompasses advanced threat detection, access controls, vulnerability assessments, and incident response protocols.
 
 # Objectives
-  "*" Identify and assess cybersecurity vulnerabilities within the college's IT infrastructure.
-  "*" Analyze current security Controls 
-  "*" Strengthen the security posture of the network.
+  * Identify and assess cybersecurity vulnerabilities within the college's IT infrastructure.
+  * Analyze current security Controls 
+  * Strengthen the security posture of the network.
 
 # Methodology
 
