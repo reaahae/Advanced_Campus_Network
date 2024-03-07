@@ -1,4 +1,4 @@
-# Advanced_Campus_Network
+# Advanced Campus Network
 
 # Overview
 This repository outlines the implementation of a robust cybersecurity framework at KJ Somaiya College, aimed at proactively safeguarding data, ensuring system integrity, and cultivating a cyber-resilient environment. The framework encompasses advanced threat detection, access controls, vulnerability assessments, and incident response protocols.
