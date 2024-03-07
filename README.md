@@ -24,7 +24,7 @@ This repository outlines the implementation of a robust cybersecurity framework 
   
   6. HSRP and Inter-VLAN routing on the 13 switches plus ip dhcp helper addresses
 
-  7 Static IP address to DMZ/server farm devices.
+   7 Static IP address to DMZ/server farm devices.
   
   8. OSPF on the firewall, routers and switches.
   
